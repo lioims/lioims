@@ -1,16 +1,13 @@
-## Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=ffb6c1&height=180&section=header&text=hi%20i'm%20yourname!&fontSize=40&fontColor=ffffff)
+![stats](https://github-readme-stats.vercel.app/api?username=YOURNAME&show_icons=true&theme=radical&hide_border=true)
+![snake](https://raw.githubusercontent.com/YOURNAME/YOURNAME/output/github-contribution-grid-snake.svg)
 
-<!--
-**lioims/lioims** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🍡 about me
+- 🌱 currently learning python!
+- 🍜 finding a new project to build
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
+(\_/)
+( •_•)
+/ >🍰  have a cake
+```
