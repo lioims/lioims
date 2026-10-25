@@ -23,7 +23,7 @@ here's some recent facts about me:
 - i'm learning python! although i'm not good at it, i'll strive to do my best >.<
 - i'm deciding on my first ever python project -- i want it to be something i <i>care</i> about, while not utilising too many complex ideas that i have yet to learn :3
 
-[banner1](https://files.catbox.moe/4kkde3.png)
+![banner1](https://files.catbox.moe/4kkde3.png)
 
 # ˗ˏˋ my socials
 come bother me on:
