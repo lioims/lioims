@@ -8,7 +8,7 @@ here's some recent facts about me:
 - i'm deciding on my first ever python project -- i want it to be something i <i>care</i> about, while not utilising too many complex ideas that i have yet to learn :3
 ## ˗ˏˋ my socials
 come bother me on:
-- [linkedin](https://www.linkedin.com/in/tan-lee-shean-16b072374/?isSelfProfile=true)
 - [substack](https://substack.com/@lioims)
+- [my email](lioims.contact@gmail.com)
 
 stay pink! 🩷
