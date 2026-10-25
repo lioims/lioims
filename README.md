@@ -9,6 +9,6 @@ here's some recent facts about me:
 ## ˗ˏˋ my socials
 come bother me on:
 - [substack](https://substack.com/@lioims)
-- [my email](lioims.contact@gmail.com)
+- my email, linked at the sidebar!
 
 stay pink! 🩷
