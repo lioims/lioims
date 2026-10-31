@@ -6,6 +6,8 @@ i'm currently in my first year at singapore management university (smu), majorin
 here's some recent facts about me:
 - i'm learning python! although i'm not good at it, i'll strive to do my best >.<
 - i'm deciding on my first ever python project -- i want it to be something i <i>care</i> about, while not utilising too many complex ideas that i have yet to learn :3
+## ˗ˏˋ my contribution grid
+![snake](https://raw.githubusercontent.com/YOURNAME/YOURNAME/output/github-contribution-grid-snake.svg)
 ## ˗ˏˋ my socials
 come bother me on:
 - [substack](https://substack.com/@lioims)
